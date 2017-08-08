@@ -1,0 +1,57 @@
+body {
+  background-color: green;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  font-size: 22px;
+  font-family: 'Asul', sans-serif;
+}
+
+a {
+  color: orange;
+}
+
+li {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h1 {
+  text-align: center;
+  display: inline-block;
+  font-family: 'Sedgwick Ave', cursive;
+}
+
+h2 {
+  color: orange;
+}
+
+ul {
+  display: inline-block;
+}
+
+.navbar {
+  float: none;
+  display: inline-block;
+}
+
+.pictures {
+  height: 180px;
+  width: auto;
+  border: 2px solid blue;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 100%;
+}
+
+#topic {
+  height: 70px;
+  width: auto;
+  border: 2px solid blue;
+  border-radius: 100%;
+  display: inline-block;
+}
+
+#email {
+  color: blue;
+}
